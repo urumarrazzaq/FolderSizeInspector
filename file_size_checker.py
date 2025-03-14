@@ -25,41 +25,53 @@ def browse_directory():
     directory = filedialog.askdirectory()
     if directory:
         folder_path.set(directory)
-        log_message(f"Selected folder: {directory}", "blue")
+        log_message(f"ℹ️ Selected folder: {directory}", "blue")
 
 def run_script():
     directory = folder_path.get()
     if not directory:
-        log_message("Warning: No folder selected. Please browse a directory first.", "yellow")
+        log_message("⚠️ Warning: No folder selected. Please browse a directory first.", "yellow")
         return
 
     try:
         size_limit = float(size_limit_entry.get())
     except ValueError:
-        log_message("Error: Invalid size limit. Please enter a valid number.", "red")
+        log_message("❌ Error: Invalid size limit. Please enter a valid number.", "red")
         return
 
     if size_limit <= 0:
-        log_message("Error: Size limit must be greater than 0.", "red")
+        log_message("❌ Error: Size limit must be greater than 0.", "red")
         return
 
     large_files = list_large_files(directory, size_limit)
     if large_files:
         save_to_file(large_files)
-        log_message(f"Success: Found {len(large_files)} files larger than {size_limit}MB.", "green")
+        log_message(f"✅ Success: Found {len(large_files)} files larger than {size_limit}MB.", "green")
         for file in large_files:
             log_message(file, "black")
-        log_message(f"Success: List saved to {OUTPUT_FILE}", "green")
-        messagebox.showinfo("Success", f"List saved to {OUTPUT_FILE}")
+        log_message(f"✅ Success: List saved to {OUTPUT_FILE}", "green")
+        messagebox.showinfo("✅ Success", f"List saved to {OUTPUT_FILE}")
     else:
-        log_message(f"Info: No files larger than {size_limit}MB found.", "blue")
-        messagebox.showinfo("Info", f"No files larger than {size_limit}MB found.")
+        log_message(f"ℹ️ Info: No files larger than {size_limit}MB found.", "blue")
+        messagebox.showinfo("ℹ️ Info", f"No files larger than {size_limit}MB found.")
 
-def log_message(message, color):
+def log_message(message, symbol_color):
     result_text.config(state="normal")
-    result_text.insert(END, message + "\n", color)
+    # Split the symbol and the message
+    symbol = message[:2]  # Extract the symbol (first 2 characters)
+    text = message[2:]    # Extract the rest of the message
+    # Insert the symbol with color
+    result_text.insert(END, symbol, symbol_color)
+    # Insert the text in black
+    result_text.insert(END, text + "\n", "black")
     result_text.config(state="disabled")
     result_text.see(END)  # Scroll to the end
+
+def clear_logs():
+    result_text.config(state="normal")
+    result_text.delete(1.0, END)  # Clear all content in the logging area
+    result_text.config(state="disabled")
+    log_message("ℹ️ Logs cleared.", "blue")  # Notify user that logs have been cleared
 
 # Create the main window
 root = Tk()
@@ -76,19 +88,22 @@ Label(root, text="File Size Checker", font=("Arial", 16, "bold")).pack(pady=10)
 # Size Limit Input
 size_limit_frame = Label(root)
 size_limit_frame.pack(pady=5)
-Label(size_limit_frame, text="Size Limit (MB):", font=("Arial", 12)).pack(side="left", padx=5)
-size_limit_entry = Entry(size_limit_frame, textvariable=size_limit, font=("Arial", 12), width=10)
+Label(size_limit_frame, text="Size Limit (MB):", font=("Arial", 10)).pack(side="left", padx=5)
+size_limit_entry = Entry(size_limit_frame, textvariable=size_limit, font=("Arial", 10), width=10)
 size_limit_entry.pack(side="left", padx=5)
 
 # Folder Selection
 folder_frame = Label(root)
 folder_frame.pack(pady=5)
-Label(folder_frame, text="Selected Folder:", font=("Arial", 12)).pack(side="left", padx=5)
-Label(folder_frame, textvariable=folder_path, font=("Arial", 12), fg="blue").pack(side="left", padx=5)
-Button(folder_frame, text="Browse Directory", command=browse_directory, font=("Arial", 12)).pack(side="left", padx=5)
+Label(folder_frame, text="Selected Folder:", font=("Arial", 10)).pack(side="left", padx=5)
+Label(folder_frame, textvariable=folder_path, font=("Arial", 10), fg="blue").pack(side="left", padx=5)
+Button(folder_frame, text="Browse Directory", command=browse_directory, font=("Arial", 10)).pack(side="left", padx=5)
 
 # Run Script Button
-Button(root, text="Run Script", command=run_script, font=("Arial", 12), bg="green", fg="white").pack(pady=10)
+Button(root, text="Run Script", command=run_script, font=("Arial", 10), bg="green", fg="white").pack(pady=10)
+
+# Clear Logs Button
+Button(root, text="Clear Logs", command=clear_logs, font=("Arial", 10), bg="red", fg="white").pack(pady=5)
 
 # Logging Area
 result_text = Text(root, wrap="word", font=("Arial", 10), state="disabled", height=15)
