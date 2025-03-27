@@ -1,0 +1,375 @@
+2025-03-27 14:38:14,747 - INFO - Selected folder: C:/Program Files/Epic Games/UE_5.4
+2025-03-27 14:38:15,477 - INFO - Starting scan in directory: C:/Program Files/Epic Games/UE_5.4 with size limit: 25.0MB
+2025-03-27 14:38:15,478 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\.egstore\5DF032884556E2913324DAB48AA00D08.manifest (25.62 MB)
+2025-03-27 14:38:15,481 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\Android\UnrealAndroidFileTool\linux-x64\UnrealAndroidFileTool (78.58 MB)
+2025-03-27 14:38:15,481 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\Android\UnrealAndroidFileTool\osx-x64\UnrealAndroidFileTool (107.01 MB)
+2025-03-27 14:38:15,541 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\Android\UnrealAndroidFileTool\win-x64\UnrealAndroidFileTool.exe (107.44 MB)
+2025-03-27 14:38:15,569 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Gauntlet\Magick.Native-Q16-HDRI-x64.dll.dylib (28.09 MB)
+2025-03-27 14:38:15,569 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Gauntlet\Magick.Native-Q16-HDRI-x64.dll.so (50.67 MB)
+2025-03-27 14:38:15,624 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\OidcToken\win-x64\OidcToken.exe (27.26 MB)
+2025-03-27 14:38:15,636 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Mac\DsymExporter.dsym (73.81 MB)
+2025-03-27 14:38:15,639 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\CEF3\Win64\libcef.dll (146.04 MB)
+2025-03-27 14:38:15,701 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\DotNet\6.0.302\mac-arm64\sdk\6.0.302\FSharp\FSharp.Compiler.Service.dll (34.80 MB)
+2025-03-27 14:38:15,850 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\DotNet\6.0.302\mac-x64\sdk\6.0.302\FSharp\FSharp.Compiler.Service.dll (31.00 MB)
+2025-03-27 14:38:16,000 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\DotNet\6.0.302\windows\sdk\6.0.302\FSharp\FSharp.Compiler.Service.dll (31.06 MB)
+2025-03-27 14:38:16,117 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Phonon\Win64\phonon.dll (27.56 MB)
+2025-03-27 14:38:16,244 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\ShaderConductor\Win64\ShaderConductor.pdb (58.25 MB)
+2025-03-27 14:38:16,259 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Vulkan\Android\arm64-v8a\libVkLayer_khronos_validation.so (31.69 MB)
+2025-03-27 14:38:16,260 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Vulkan\Android\x86\libVkLayer_khronos_validation.so (41.18 MB)
+2025-03-27 14:38:16,260 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Vulkan\Android\x86_64\libVkLayer_khronos_validation.so (45.06 MB)
+2025-03-27 14:38:16,263 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\embree3.dll (37.84 MB)
+2025-03-27 14:38:16,264 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\InterchangeWorker.exe (33.47 MB)
+2025-03-27 14:38:16,264 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\InterchangeWorker.pdb (27.13 MB)
+2025-03-27 14:38:16,264 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\LiveCodingConsole.exe (44.70 MB)
+2025-03-27 14:38:16,264 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\LiveCodingConsole.pdb (38.10 MB)
+2025-03-27 14:38:16,264 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\LiveLinkHub-Win64-Shipping.exe (237.59 MB)
+2025-03-27 14:38:16,264 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\OpenImageDenoise.dll (47.49 MB)
+2025-03-27 14:38:16,267 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\SwitchboardListener.exe (56.10 MB)
+2025-03-27 14:38:16,267 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\SwitchboardListener.pdb (50.25 MB)
+2025-03-27 14:38:16,270 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealEditor-Engine.dll (73.59 MB)
+2025-03-27 14:38:16,273 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealEditor-Renderer.dll (28.93 MB)
+2025-03-27 14:38:16,275 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealEditor-UnrealEd.dll (33.77 MB)
+2025-03-27 14:38:16,279 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-DebugGame.exe (266.12 MB)
+2025-03-27 14:38:16,279 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-DebugGame.pdb (232.89 MB)
+2025-03-27 14:38:16,279 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-Shipping.exe (126.14 MB)
+2025-03-27 14:38:16,279 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-Shipping.pdb (125.36 MB)
+2025-03-27 14:38:16,280 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame.exe (266.12 MB)
+2025-03-27 14:38:16,280 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame.pdb (232.89 MB)
+2025-03-27 14:38:16,295 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealRecoverySvc.exe (26.67 MB)
+2025-03-27 14:38:16,854 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\PropertyNames.manifest (88.82 MB)
+2025-03-27 14:38:16,854 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ar\PropertyNames.archive (64.54 MB)
+2025-03-27 14:38:16,854 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\de\PropertyNames.archive (64.60 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\en\PropertyNames.archive (64.94 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\es\PropertyNames.archive (64.62 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\es-419\PropertyNames.archive (64.64 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\fr\PropertyNames.archive (64.63 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\it\PropertyNames.archive (64.59 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ja\PropertyNames.archive (61.56 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ko\PropertyNames.archive (63.61 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\pl\PropertyNames.archive (64.57 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\pt-BR\PropertyNames.archive (64.62 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ru\PropertyNames.archive (64.57 MB)
+2025-03-27 14:38:16,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\tr\PropertyNames.archive (64.54 MB)
+2025-03-27 14:38:16,856 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\zh-Hans\PropertyNames.archive (61.66 MB)
+2025-03-27 14:38:16,856 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ToolTips.manifest (50.72 MB)
+2025-03-27 14:38:16,856 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ar\ToolTips.archive (48.33 MB)
+2025-03-27 14:38:16,856 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\de\ToolTips.archive (51.92 MB)
+2025-03-27 14:38:16,856 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\en\ToolTips.archive (49.36 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\es\ToolTips.archive (51.89 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\es-419\ToolTips.archive (51.74 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\fr\ToolTips.archive (52.18 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\it\ToolTips.archive (51.75 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ja\ToolTips.archive (43.68 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ko\ToolTips.archive (43.55 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\pl\ToolTips.archive (51.40 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\pt-BR\ToolTips.archive (50.99 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ru\ToolTips.archive (51.39 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\tr\ToolTips.archive (50.32 MB)
+2025-03-27 14:38:16,857 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\zh-Hans\ToolTips.archive (40.99 MB)
+2025-03-27 14:38:16,896 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\DerivedDataCache\Compressed.ddp (2464.25 MB)
+2025-03-27 14:38:16,897 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Documentation\Builds\CppAPI-HTML.tgz (218.74 MB)
+2025-03-27 14:38:16,926 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Extras\Redist\en-us\UEPrereqSetup_x64.exe (48.20 MB)
+2025-03-27 14:38:16,938 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Extras\VirtualProduction\TextureShare\TextureShareSDK\Binaries\Win64\TextureShareSDK-Win64-Debug.dll (26.59 MB)
+2025-03-27 14:38:17,565 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\Binaries\Win64\UnrealEditor-Bridge.pdb (55.82 MB)
+2025-03-27 14:38:17,565 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\Binaries\Win64\UnrealEditor-MegascansPlugin.pdb (58.78 MB)
+2025-03-27 14:38:17,571 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\ThirdParty\Linux\node-bifrost (50.70 MB)
+2025-03-27 14:38:17,572 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\ThirdParty\Win\node-bifrost.exe (45.24 MB)
+2025-03-27 14:38:17,854 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\DatasmithCADImporter\Binaries\Win64\DatasmithCADWorker.exe (31.42 MB)
+2025-03-27 14:38:17,854 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\DatasmithCADImporter\Binaries\Win64\DatasmithCADWorker.pdb (27.59 MB)
+2025-03-27 14:38:17,855 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\DatasmithCADImporter\Binaries\Win64\TechSoft\a3dpostergeneration.dll (52.94 MB)
+2025-03-27 14:38:17,904 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\MDLImporter\Binaries\ThirdParty\MDL\Win64\libmdl_sdk.dll (44.99 MB)
+2025-03-27 14:38:17,962 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\AnimToTexture\Content\Characters\Mannequin\Textures\VertexAnimation\TX_VertexNormal.uasset (52.03 MB)
+2025-03-27 14:38:17,962 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\AnimToTexture\Content\Characters\Mannequin\Textures\VertexAnimation\TX_VertexPosition.uasset (38.52 MB)
+2025-03-27 14:38:17,974 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\Avalanche\Content\Toolkit\Materials\Plastics\Textures\Plastic_A008_normal.uasset (87.34 MB)
+2025-03-27 14:38:18,373 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\MoverExamples\Content\Characters\Mannequins\Meshes\SKM_Manny.uasset (32.93 MB)
+2025-03-27 14:38:18,380 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\MoverTests\Content\Characters\Mannequins\Meshes\SKM_Manny.uasset (34.31 MB)
+2025-03-27 14:38:18,448 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Linux\ld.lld (77.20 MB)
+2025-03-27 14:38:18,448 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Linux\libIREECompiler.so.0 (189.47 MB)
+2025-03-27 14:38:18,448 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Mac\ld64.lld (138.70 MB)
+2025-03-27 14:38:18,448 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Mac\libIREECompiler.0.dylib (339.41 MB)
+2025-03-27 14:38:18,448 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Windows\IREECompiler.dll (90.48 MB)
+2025-03-27 14:38:18,448 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Windows\ld.lld.exe (55.32 MB)
+2025-03-27 14:38:18,448 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Windows\lld-link.exe (55.32 MB)
+2025-03-27 14:38:18,475 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\PanoramicCapture\Content\Assets\Sphere.uasset (25.45 MB)
+2025-03-27 14:38:18,494 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\PCGBiomeSample\Content\__ExternalActors__\Maps\BiomeSampleLevel\5\TW\TOVFYL5F6U2RAZR67GH6WN.uasset (38.82 MB)
+2025-03-27 14:38:18,637 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\ARM64\Debug\libFlite.a (39.81 MB)
+2025-03-27 14:38:18,638 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\ARM64\Release\libFlite.a (40.12 MB)
+2025-03-27 14:38:18,638 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\x64\Debug\libFlite.a (40.23 MB)
+2025-03-27 14:38:18,638 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\x64\Release\libFlite.a (40.60 MB)
+2025-03-27 14:38:18,638 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\aarch64-unknown-linux-gnueabi\Debug\libFlite.a (40.07 MB)
+2025-03-27 14:38:18,638 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\aarch64-unknown-linux-gnueabi\Release\libFlite.a (40.85 MB)
+2025-03-27 14:38:18,638 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\x86_64-unknown-linux-gnu\Debug\libFlite.a (40.46 MB)
+2025-03-27 14:38:18,638 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\x86_64-unknown-linux-gnu\Release\libFlite.a (41.31 MB)
+2025-03-27 14:38:18,639 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Win64\VS2019\Debug\libFlite.lib (36.15 MB)
+2025-03-27 14:38:18,639 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Win64\VS2019\Release\libFlite.lib (30.32 MB)
+2025-03-27 14:38:18,639 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Win64\VS2019\RelWithDebInfo\libFlite.lib (38.28 MB)
+2025-03-27 14:38:18,649 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextureGraph\Intermediate\Build\Win64\x64\UnrealGame\Development\TextureGraphEngine\Module.TextureGraphEngine.2.cpp.obj (58.64 MB)
+2025-03-27 14:38:18,649 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextureGraph\Intermediate\Build\Win64\x64\UnrealGame\Shipping\TextureGraphEngine\Module.TextureGraphEngine.2.cpp.obj (56.70 MB)
+2025-03-27 14:38:18,710 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\VirtualProductionUtilities\Content\2D\Textures\Tools\Handheld\T_ShoulderRig_02_Normal.uasset (30.16 MB)
+2025-03-27 14:38:18,772 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\Water\Content\Textures\Caustics\Caustics_Animated_01_HDR.uasset (45.49 MB)
+2025-03-27 14:38:18,773 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\Water\Content\Textures\Caustics\Caustics_Animated_01_HDR_Volume.uasset (45.37 MB)
+2025-03-27 14:38:18,813 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Fab\Binaries\Win64\UnrealEditor-Fab.pdb (69.10 MB)
+2025-03-27 14:38:18,824 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\FX\Niagara\Binaries\Win64\UnrealEditor-NiagaraEditor.dll (25.32 MB)
+2025-03-27 14:38:18,914 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\FX\NiagaraFluids\Content\Meshes\plane1024.uasset (82.12 MB)
+2025-03-27 14:38:18,941 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Importers\USDImporter\Content\Python\Lib\Mac\site-packages\pxr\Vt\_vt.so (29.49 MB)
+2025-03-27 14:38:19,078 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Binaries\Mac\UnrealEditor-Convai.dylib (26.20 MB)
+2025-03-27 14:38:19,078 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Binaries\Win64\UnrealEditor-Convai.pdb (83.82 MB)
+2025-03-27 14:38:19,087 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Content\Widgets\Fonts\CJK\SourceHanSans.uasset (111.81 MB)
+2025-03-27 14:38:19,091 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\arm64\UnrealGame\Development\Convai\Module.Convai.4.cpp.o (33.90 MB)
+2025-03-27 14:38:19,092 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\arm64\UnrealGame\Shipping\Convai\Module.Convai.4.cpp.o (32.82 MB)
+2025-03-27 14:38:19,096 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\x64\UnrealGame\Development\Convai\Module.Convai.4.cpp.o (33.85 MB)
+2025-03-27 14:38:19,096 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\x64\UnrealGame\Shipping\Convai\Module.Convai.4.cpp.o (32.77 MB)
+2025-03-27 14:38:19,101 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Development\Convai\Module.Convai.3.cpp.obj (38.77 MB)
+2025-03-27 14:38:19,101 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Development\Convai\Module.Convai.4.cpp.obj (37.20 MB)
+2025-03-27 14:38:19,101 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Convai\Module.Convai.3.cpp.obj (36.70 MB)
+2025-03-27 14:38:19,101 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Convai\Module.Convai.4.cpp.obj (35.54 MB)
+2025-03-27 14:38:19,208 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libgrpc.a (122.53 MB)
+2025-03-27 14:38:19,208 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libgrpc_unsecure.a (65.84 MB)
+2025-03-27 14:38:19,209 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libprotobuf.a (82.47 MB)
+2025-03-27 14:38:19,209 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libprotoc.a (112.25 MB)
+2025-03-27 14:38:19,211 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libgrpc.a (91.18 MB)
+2025-03-27 14:38:19,211 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libgrpc_unsecure.a (50.34 MB)
+2025-03-27 14:38:19,211 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libprotobuf.a (51.37 MB)
+2025-03-27 14:38:19,211 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libprotoc.a (65.67 MB)
+2025-03-27 14:38:19,212 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\libgrpc.a (121.83 MB)
+2025-03-27 14:38:19,212 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\libgrpc_unsecure.a (65.35 MB)
+2025-03-27 14:38:19,215 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\third_party\protobuf\libprotobuf.a (81.76 MB)
+2025-03-27 14:38:19,215 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\third_party\protobuf\libprotoc.a (110.00 MB)
+2025-03-27 14:38:19,223 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\VaRestPlugin\Binaries\Win64\UnrealEditor-VaRest.pdb (55.36 MB)
+2025-03-27 14:38:19,223 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\VaRestPlugin\Binaries\Win64\UnrealEditor-VaRestEditor.pdb (53.25 MB)
+2025-03-27 14:38:19,245 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Media\AjaMedia\Source\ThirdParty\AjaLib\ntv2lib-deploy\lib\libajantv2d.lib (73.43 MB)
+2025-03-27 14:38:19,456 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\NNE\NNERuntimeORT\Source\ThirdParty\OnnxEditor\lib\Linux\libonnx.a (108.25 MB)
+2025-03-27 14:38:19,457 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\NNE\NNERuntimeORT\Source\ThirdParty\OnnxEditor\lib\Mac\libonnx.a (215.36 MB)
+2025-03-27 14:38:19,457 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\NNE\NNERuntimeORT\Source\ThirdParty\OnnxEditor\lib\Win64\onnx.lib (58.90 MB)
+2025-03-27 14:38:19,652 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\AR\AzureSpatialAnchorsForARKit\Source\AzureSpatialAnchorsForARKit\ThirdParty\AzureSpatialAnchors.embeddedframework.zip (34.73 MB)
+2025-03-27 14:38:19,796 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\arm64-android\lib\libproj.a (78.27 MB)
+2025-03-27 14:38:19,805 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\overlay-arm64-uwp\lib\proj.lib (114.69 MB)
+2025-03-27 14:38:19,814 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\overlay-x64-uwp\lib\proj.lib (113.54 MB)
+2025-03-27 14:38:19,818 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\overlay-x64-windows\lib\proj.lib (164.86 MB)
+2025-03-27 14:38:19,827 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\x64-android\lib\libproj.a (74.14 MB)
+2025-03-27 14:38:19,865 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\Harmonix\Intermediate\Build\Win64\x64\UnrealGame\Development\HarmonixMetasound\Module.HarmonixMetasound.2.cpp.obj (36.80 MB)
+2025-03-27 14:38:19,865 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\Harmonix\Intermediate\Build\Win64\x64\UnrealGame\Shipping\HarmonixMetasound\Module.HarmonixMetasound.2.cpp.obj (30.02 MB)
+2025-03-27 14:38:19,882 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\HDRIBackdrop\Content\Textures\autumn_hockey_4k.uasset (25.70 MB)
+2025-03-27 14:38:19,882 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\HDRIBackdrop\Content\Textures\misty_pines_4k.uasset (25.29 MB)
+2025-03-27 14:38:20,100 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\NetworkPredictionExtras\Content\Maps\TestMap_ObstacleRace_BuiltData.uasset (88.28 MB)
+2025-03-27 14:38:20,101 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\NetworkPredictionExtras\Content\Maps\TestMap_Physics_Tracks2_BuiltData.uasset (25.69 MB)
+2025-03-27 14:38:20,113 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\OpenCV\Binaries\ThirdParty\Linux\libopencv_world.so.405 (43.02 MB)
+2025-03-27 14:38:20,114 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\OpenCV\Binaries\ThirdParty\Win64\opencv_world455.dll (40.85 MB)
+2025-03-27 14:38:20,437 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\VirtualProduction\DMX\DMXFixtures\Content\Shared\VFX\Textures\T_SmokeSheet_8x32f_01.uasset (28.83 MB)
+2025-03-27 14:38:20,917 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\Programs\AutomationTool\Gauntlet\ThirdParty\Magick.NET\Magick.NET-Q16-HDRI-AnyCPU\runtimes\linux-x64\native\Magick.Native-Q16-HDRI-x64.dll.so (50.67 MB)
+2025-03-27 14:38:20,917 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\Programs\AutomationTool\Gauntlet\ThirdParty\Magick.NET\Magick.NET-Q16-HDRI-AnyCPU\runtimes\osx-x64\native\Magick.Native-Q16-HDRI-x64.dll.dylib (28.09 MB)
+2025-03-27 14:38:21,276 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.5\lib\IOS\liboo2coreios_dbg.a (48.66 MB)
+2025-03-27 14:38:21,278 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.6\lib\IOS\liboo2coreios_dbg.a (48.75 MB)
+2025-03-27 14:38:21,280 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.7\lib\IOS\liboo2coreios_dbg.a (48.72 MB)
+2025-03-27 14:38:21,864 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Mac\Debug\libCatch2d.a (60.55 MB)
+2025-03-27 14:38:21,881 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Mac\Release\libCatch2.a (49.70 MB)
+2025-03-27 14:38:21,882 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Win64\x64\VS2019\Debug\Catch2d.lib (37.17 MB)
+2025-03-27 14:38:21,882 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Win64\x64\VS2022\Debug\Catch2d.lib (38.27 MB)
+2025-03-27 14:38:21,911 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\CEF3\cef_binary_90.6.7+g19ba721+chromium-90.0.4430.212_windows64\VS2015\libcef_dll_wrapper\Release\libcef_dll_wrapper.lib (31.23 MB)
+2025-03-27 14:38:21,950 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\EOSSDK\SDK\Bin\libEOSSDK-Linux-Shipping.so (27.04 MB)
+2025-03-27 14:38:21,987 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\heapprofd\arm64-v8a\libheapprofd_standalone_client.so (36.00 MB)
+2025-03-27 14:38:21,999 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Intel\Embree\Embree3122\Win64\lib\embree3.dll (37.84 MB)
+2025-03-27 14:38:22,000 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Intel\ISPC\bin\Windows\ispc.exe (82.31 MB)
+2025-03-27 14:38:22,001 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Intel\OIDN\bin\OpenImageDenoise.dll (47.49 MB)
+2025-03-27 14:38:22,078 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\OpenVDB\Deploy\openvdb-8.1.0\VS2015\x64\lib\libopenvdb.lib (39.13 MB)
+2025-03-27 14:38:22,081 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Perforce\p4api-2021.2\Lib\Win64\VS2015\Release\libp4api.lib (25.39 MB)
+2025-03-27 14:38:22,368 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\WebRTC\5414\Lib\Win64\Release\webrtc.lib (55.00 MB)
+2025-03-27 14:38:22,374 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Samples\StarterContent\Content\StarterContent\HDRI\HDRI_Epic_Courtyard_Daylight.uasset (69.01 MB)
+2025-03-27 14:38:22,380 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TemplateResources\High\Characters\Content\Mannequins\Meshes\SKM_Manny.uasset (32.94 MB)
+2025-03-27 14:38:22,380 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TemplateResources\High\Characters\Content\Mannequins\Meshes\SKM_Quinn.uasset (34.80 MB)
+2025-03-27 14:38:22,393 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TemplateResources\Standard\Building\Content\Textures\T_PolishedConcrete01_BC.uasset (26.33 MB)
+2025-03-27 14:38:22,423 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TP_AEC_ArchvisBP\Content\ArchvisProject\Levels\Interior_Lightmass_BuiltData.uasset (468.40 MB)
+2025-03-27 14:38:22,445 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_BlankBP\Content\Main_BuiltData.uasset (256.11 MB)
+2025-03-27 14:38:22,446 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\LiveComp_BuiltData.uasset (256.04 MB)
+2025-03-27 14:38:22,446 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\Main_BuiltData.uasset (256.03 MB)
+2025-03-27 14:38:22,446 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\Vcam_BuiltData.uasset (256.21 MB)
+2025-03-27 14:38:22,446 - INFO - Large file found: C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\VR-Scouting_BuiltData.uasset (256.22 MB)
+2025-03-27 14:38:22,517 - INFO - Found 184 files larger than 25.0MB
+
+
+=== Scan completed at 2025-03-27 14:38:22 ===
+Found 184 files exceeding size limit:
+C:/Program Files/Epic Games/UE_5.4\.egstore\5DF032884556E2913324DAB48AA00D08.manifest
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\Android\UnrealAndroidFileTool\linux-x64\UnrealAndroidFileTool
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\Android\UnrealAndroidFileTool\osx-x64\UnrealAndroidFileTool
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\Android\UnrealAndroidFileTool\win-x64\UnrealAndroidFileTool.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Gauntlet\Magick.Native-Q16-HDRI-x64.dll.dylib
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Gauntlet\Magick.Native-Q16-HDRI-x64.dll.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\DotNET\OidcToken\win-x64\OidcToken.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Mac\DsymExporter.dsym
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\CEF3\Win64\libcef.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\DotNet\6.0.302\mac-arm64\sdk\6.0.302\FSharp\FSharp.Compiler.Service.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\DotNet\6.0.302\mac-x64\sdk\6.0.302\FSharp\FSharp.Compiler.Service.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\DotNet\6.0.302\windows\sdk\6.0.302\FSharp\FSharp.Compiler.Service.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Phonon\Win64\phonon.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\ShaderConductor\Win64\ShaderConductor.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Vulkan\Android\arm64-v8a\libVkLayer_khronos_validation.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Vulkan\Android\x86\libVkLayer_khronos_validation.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\ThirdParty\Vulkan\Android\x86_64\libVkLayer_khronos_validation.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\embree3.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\InterchangeWorker.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\InterchangeWorker.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\LiveCodingConsole.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\LiveCodingConsole.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\LiveLinkHub-Win64-Shipping.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\OpenImageDenoise.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\SwitchboardListener.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\SwitchboardListener.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealEditor-Engine.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealEditor-Renderer.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealEditor-UnrealEd.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-DebugGame.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-DebugGame.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-Shipping.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame-Win64-Shipping.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealGame.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Binaries\Win64\UnrealRecoverySvc.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\PropertyNames.manifest
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ar\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\de\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\en\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\es\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\es-419\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\fr\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\it\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ja\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ko\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\pl\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\pt-BR\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\ru\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\tr\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\PropertyNames\zh-Hans\PropertyNames.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ToolTips.manifest
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ar\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\de\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\en\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\es\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\es-419\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\fr\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\it\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ja\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ko\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\pl\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\pt-BR\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\ru\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\tr\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\Content\Localization\ToolTips\zh-Hans\ToolTips.archive
+C:/Program Files/Epic Games/UE_5.4\Engine\DerivedDataCache\Compressed.ddp
+C:/Program Files/Epic Games/UE_5.4\Engine\Documentation\Builds\CppAPI-HTML.tgz
+C:/Program Files/Epic Games/UE_5.4\Engine\Extras\Redist\en-us\UEPrereqSetup_x64.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Extras\VirtualProduction\TextureShare\TextureShareSDK\Binaries\Win64\TextureShareSDK-Win64-Debug.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\Binaries\Win64\UnrealEditor-Bridge.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\Binaries\Win64\UnrealEditor-MegascansPlugin.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\ThirdParty\Linux\node-bifrost
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Bridge\ThirdParty\Win\node-bifrost.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\DatasmithCADImporter\Binaries\Win64\DatasmithCADWorker.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\DatasmithCADImporter\Binaries\Win64\DatasmithCADWorker.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\DatasmithCADImporter\Binaries\Win64\TechSoft\a3dpostergeneration.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Enterprise\MDLImporter\Binaries\ThirdParty\MDL\Win64\libmdl_sdk.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\AnimToTexture\Content\Characters\Mannequin\Textures\VertexAnimation\TX_VertexNormal.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\AnimToTexture\Content\Characters\Mannequin\Textures\VertexAnimation\TX_VertexPosition.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\Avalanche\Content\Toolkit\Materials\Plastics\Textures\Plastic_A008_normal.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\MoverExamples\Content\Characters\Mannequins\Meshes\SKM_Manny.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\MoverTests\Content\Characters\Mannequins\Meshes\SKM_Manny.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Linux\ld.lld
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Linux\libIREECompiler.so.0
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Mac\ld64.lld
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Mac\libIREECompiler.0.dylib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Windows\IREECompiler.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Windows\ld.lld.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\NNERuntimeIREE\Source\ThirdParty\IREE\Bin\Windows\lld-link.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\PanoramicCapture\Content\Assets\Sphere.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\PCGBiomeSample\Content\__ExternalActors__\Maps\BiomeSampleLevel\5\TW\TOVFYL5F6U2RAZR67GH6WN.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\ARM64\Debug\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\ARM64\Release\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\x64\Debug\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Android\x64\Release\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\aarch64-unknown-linux-gnueabi\Debug\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\aarch64-unknown-linux-gnueabi\Release\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\x86_64-unknown-linux-gnu\Debug\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Unix\x86_64-unknown-linux-gnu\Release\libFlite.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Win64\VS2019\Debug\libFlite.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Win64\VS2019\Release\libFlite.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextToSpeech\Source\ThirdParty\Flite\lib\Win64\VS2019\RelWithDebInfo\libFlite.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextureGraph\Intermediate\Build\Win64\x64\UnrealGame\Development\TextureGraphEngine\Module.TextureGraphEngine.2.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\TextureGraph\Intermediate\Build\Win64\x64\UnrealGame\Shipping\TextureGraphEngine\Module.TextureGraphEngine.2.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\VirtualProductionUtilities\Content\2D\Textures\Tools\Handheld\T_ShoulderRig_02_Normal.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\Water\Content\Textures\Caustics\Caustics_Animated_01_HDR.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Experimental\Water\Content\Textures\Caustics\Caustics_Animated_01_HDR_Volume.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Fab\Binaries\Win64\UnrealEditor-Fab.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\FX\Niagara\Binaries\Win64\UnrealEditor-NiagaraEditor.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\FX\NiagaraFluids\Content\Meshes\plane1024.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Importers\USDImporter\Content\Python\Lib\Mac\site-packages\pxr\Vt\_vt.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Binaries\Mac\UnrealEditor-Convai.dylib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Binaries\Win64\UnrealEditor-Convai.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Content\Widgets\Fonts\CJK\SourceHanSans.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\arm64\UnrealGame\Development\Convai\Module.Convai.4.cpp.o
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\arm64\UnrealGame\Shipping\Convai\Module.Convai.4.cpp.o
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\x64\UnrealGame\Development\Convai\Module.Convai.4.cpp.o
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Mac\x64\UnrealGame\Shipping\Convai\Module.Convai.4.cpp.o
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Development\Convai\Module.Convai.3.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Development\Convai\Module.Convai.4.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Convai\Module.Convai.3.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Convai\Module.Convai.4.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libgrpc.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libgrpc_unsecure.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libprotobuf.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\arm64-v8a\libprotoc.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libgrpc.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libgrpc_unsecure.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libprotobuf.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\armeabi-v7a\libprotoc.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\libgrpc.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\libgrpc_unsecure.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\third_party\protobuf\libprotobuf.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\Convai\Source\ThirdParty\gRPC\lib\android\x86_64\third_party\protobuf\libprotoc.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\VaRestPlugin\Binaries\Win64\UnrealEditor-VaRest.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Marketplace\VaRestPlugin\Binaries\Win64\UnrealEditor-VaRestEditor.pdb
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Media\AjaMedia\Source\ThirdParty\AjaLib\ntv2lib-deploy\lib\libajantv2d.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\NNE\NNERuntimeORT\Source\ThirdParty\OnnxEditor\lib\Linux\libonnx.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\NNE\NNERuntimeORT\Source\ThirdParty\OnnxEditor\lib\Mac\libonnx.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\NNE\NNERuntimeORT\Source\ThirdParty\OnnxEditor\lib\Win64\onnx.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\AR\AzureSpatialAnchorsForARKit\Source\AzureSpatialAnchorsForARKit\ThirdParty\AzureSpatialAnchors.embeddedframework.zip
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\arm64-android\lib\libproj.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\overlay-arm64-uwp\lib\proj.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\overlay-x64-uwp\lib\proj.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\overlay-x64-windows\lib\proj.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\GeoReferencing\Source\ThirdParty\vcpkg-installed\x64-android\lib\libproj.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\Harmonix\Intermediate\Build\Win64\x64\UnrealGame\Development\HarmonixMetasound\Module.HarmonixMetasound.2.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\Harmonix\Intermediate\Build\Win64\x64\UnrealGame\Shipping\HarmonixMetasound\Module.HarmonixMetasound.2.cpp.obj
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\HDRIBackdrop\Content\Textures\autumn_hockey_4k.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\HDRIBackdrop\Content\Textures\misty_pines_4k.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\NetworkPredictionExtras\Content\Maps\TestMap_ObstacleRace_BuiltData.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\NetworkPredictionExtras\Content\Maps\TestMap_Physics_Tracks2_BuiltData.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\OpenCV\Binaries\ThirdParty\Linux\libopencv_world.so.405
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\Runtime\OpenCV\Binaries\ThirdParty\Win64\opencv_world455.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Plugins\VirtualProduction\DMX\DMXFixtures\Content\Shared\VFX\Textures\T_SmokeSheet_8x32f_01.uasset
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\Programs\AutomationTool\Gauntlet\ThirdParty\Magick.NET\Magick.NET-Q16-HDRI-AnyCPU\runtimes\linux-x64\native\Magick.Native-Q16-HDRI-x64.dll.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\Programs\AutomationTool\Gauntlet\ThirdParty\Magick.NET\Magick.NET-Q16-HDRI-AnyCPU\runtimes\osx-x64\native\Magick.Native-Q16-HDRI-x64.dll.dylib
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.5\lib\IOS\liboo2coreios_dbg.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.6\lib\IOS\liboo2coreios_dbg.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.7\lib\IOS\liboo2coreios_dbg.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Mac\Debug\libCatch2d.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Mac\Release\libCatch2.a
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Win64\x64\VS2019\Debug\Catch2d.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Catch2\v3.4.0\lib\Win64\x64\VS2022\Debug\Catch2d.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\CEF3\cef_binary_90.6.7+g19ba721+chromium-90.0.4430.212_windows64\VS2015\libcef_dll_wrapper\Release\libcef_dll_wrapper.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\EOSSDK\SDK\Bin\libEOSSDK-Linux-Shipping.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\heapprofd\arm64-v8a\libheapprofd_standalone_client.so
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Intel\Embree\Embree3122\Win64\lib\embree3.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Intel\ISPC\bin\Windows\ispc.exe
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Intel\OIDN\bin\OpenImageDenoise.dll
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\OpenVDB\Deploy\openvdb-8.1.0\VS2015\x64\lib\libopenvdb.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\Perforce\p4api-2021.2\Lib\Win64\VS2015\Release\libp4api.lib
+C:/Program Files/Epic Games/UE_5.4\Engine\Source\ThirdParty\WebRTC\5414\Lib\Win64\Release\webrtc.lib
+C:/Program Files/Epic Games/UE_5.4\Samples\StarterContent\Content\StarterContent\HDRI\HDRI_Epic_Courtyard_Daylight.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TemplateResources\High\Characters\Content\Mannequins\Meshes\SKM_Manny.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TemplateResources\High\Characters\Content\Mannequins\Meshes\SKM_Quinn.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TemplateResources\Standard\Building\Content\Textures\T_PolishedConcrete01_BC.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TP_AEC_ArchvisBP\Content\ArchvisProject\Levels\Interior_Lightmass_BuiltData.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_BlankBP\Content\Main_BuiltData.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\LiveComp_BuiltData.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\Main_BuiltData.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\Vcam_BuiltData.uasset
+C:/Program Files/Epic Games/UE_5.4\Templates\TP_ME_VProdBP\Content\VprodProject\Maps\VR-Scouting_BuiltData.uasset
